@@ -2,7 +2,7 @@ body{
     margin: 5%;
 }
 
-span{
+#links{
     background-color: rgb(246, 229, 229);
     padding:1.5%;
     border-radius: 30px;
